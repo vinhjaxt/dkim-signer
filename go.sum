@@ -1,0 +1,4 @@
+github.com/emersion/go-msgauth v0.6.8 h1:kW/0E9E8Zx5CdKsERC/WnAvnXvX7q9wTHia1OA4944A=
+github.com/emersion/go-msgauth v0.6.8/go.mod h1:YDwuyTCUHu9xxmAeVj0eW4INnwB6NNZoPdLerpSxRrc=
+golang.org/x/crypto v0.15.0 h1:frVn1TEaCEaZcn3Tmd7Y2b5KKPaZ+I32Q2OA3kYp5TA=
+golang.org/x/crypto v0.15.0/go.mod h1:4ChreQoLWfG3xLDer1WdlH5NdlQ3+mwnQq1YTKY+72g=
